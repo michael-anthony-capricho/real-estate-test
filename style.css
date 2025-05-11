@@ -257,7 +257,7 @@ body{
     margin: auto;
     text-align: center;
     background-color: aliceblue;
-    height: 180vh;
+    height: 200vh;
     animation: appear linear;
     animation-timeline: view();
     animation-range-start: 2000px;  
